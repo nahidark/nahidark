@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nahom</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
 <img align="right" alt="codin" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🌱 I’m currently learning **react , flutter, flux, nuxt, vue, python & mermaid code**
+- 🌱 I’m currently learning **react,wordpress, flutter, flux, nuxt,next, vue, python & mermaid code**
 
 - 💬 Ask me about **c++,html,css,php,c#**
 
